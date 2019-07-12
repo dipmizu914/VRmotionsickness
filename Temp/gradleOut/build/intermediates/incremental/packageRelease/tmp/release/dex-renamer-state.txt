@@ -1,0 +1,4 @@
+#Fri Jul 12 14:47:28 JST 2019
+base.0=/Users/kentaro/oculus motion sickness/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
